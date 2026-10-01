@@ -1,4 +1,4 @@
-#  Análisis de Ventas y Rentabilidad — Tienda de Bicicletas
+#  Análisis de Ventas y Rentabilidad para CycleMotion (empresa simulada)
 
 ## 1.  Resumen del Proyecto
 
